@@ -1,0 +1,72 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\OffTube.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\360noselected.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\360selected.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\480selected.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\720selected.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\no480selected.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\no720selected.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\theme\autodownloadoff.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\theme\autodownloadon.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\theme\night.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\theme\nonight.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\theme\nowhite.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\settings\theme\white.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\OffTube.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\OffTube.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\HtmlAgilityPack.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\YoutubeExtractor.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\HtmlAgilityPack.xml
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\YoutubeExtractor.xml
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.Auth.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.Form1.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.Form2.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.OffTube.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.settings.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\Resources\autodownloadoff.png
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\Resources\H0uT.gif
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\bin\Release\favicon.ico
+C:\Users\Admin\documents\visual studio 2015\Projects\OffTube\OffTube\obj\Release\OffTube.csprojResolveAssemblyReference.cache
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\360noselected.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\360selected.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\480selected.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\720selected.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\no480selected.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\no720selected.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\theme\autodownloadoff.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\theme\autodownloadon.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\theme\night.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\theme\nonight.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\theme\nowhite.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\settings\theme\white.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\Resources\autodownloadoff.png
+F:\колледж\Documents\OffTube\OffTube\bin\Release\Resources\H0uT.gif
+F:\колледж\Documents\OffTube\OffTube\bin\Release\favicon.ico
+F:\колледж\Documents\OffTube\OffTube\bin\Release\OffTube.exe.config
+F:\колледж\Documents\OffTube\OffTube\bin\Release\OffTube.exe
+F:\колледж\Documents\OffTube\OffTube\bin\Release\OffTube.pdb
+F:\колледж\Documents\OffTube\OffTube\bin\Release\HtmlAgilityPack.dll
+F:\колледж\Documents\OffTube\OffTube\bin\Release\Newtonsoft.Json.dll
+F:\колледж\Documents\OffTube\OffTube\bin\Release\YoutubeExtractor.dll
+F:\колледж\Documents\OffTube\OffTube\bin\Release\HtmlAgilityPack.pdb
+F:\колледж\Documents\OffTube\OffTube\bin\Release\HtmlAgilityPack.xml
+F:\колледж\Documents\OffTube\OffTube\bin\Release\Newtonsoft.Json.xml
+F:\колледж\Documents\OffTube\OffTube\bin\Release\YoutubeExtractor.pdb
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.csprojAssemblyReference.cache
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.Auth.resources
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.Form1.resources
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.Form2.resources
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.OffTube.resources
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.Properties.Resources.resources
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.settings.resources
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.csproj.GenerateResource.cache
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.csproj.CoreCompileInputs.cache
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.csproj.CopyComplete
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.exe
+F:\колледж\Documents\OffTube\OffTube\obj\Release\OffTube.pdb
